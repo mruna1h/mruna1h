@@ -22,7 +22,7 @@
 - **STR** — Contributions, last 12 months: 14
 - **AGI** — Active days: 8
 - **END** — Longest streak (days): 2
-- **INT** — Languages wielded: 0
+- **INT** — Languages wielded: 2
 - **CHA** — Stars earned: 0
 - **Rank** — average of the five bars (S ≥ 85%, A ≥ 70%, B ≥ 50%, C ≥ 30%).
 - **Power level** — contributions×9 + stars×21 + followers×13 + active days×7 + longest streak×42. Scientifically meaningless. Spiritually accurate.
