@@ -1,0 +1,399 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Mrunal (mruna1h) — CS Undergrad at NIT Calicut, Systems Programmer, C/C++ Developer, and Competitive Programmer">
+  <defs>
+    
+    <linearGradient id="light-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="52%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#EEF6FF" />
+    </linearGradient>
+
+    <radialGradient id="light-glow-blue" cx="16%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="light-glow-cyan" cx="84%" cy="18%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.09" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="light-glow-emerald" cx="76%" cy="88%" r="48%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.07" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+
+    
+    <linearGradient id="light-accent-beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    
+    <linearGradient id="light-panel-glass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.88" />
+      <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0.72" />
+    </linearGradient>
+
+    <linearGradient id="light-pill-fill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#F1F5F9" stop-opacity="0.85" />
+    </linearGradient>
+
+    <linearGradient id="light-scanline-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0" />
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.11" />
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <pattern id="light-tech-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#0F172A" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+
+    <pattern id="light-dot-matrix" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.85" fill="#2563EB" fill-opacity="0.12" />
+    </pattern>
+
+    
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.06" />
+    </filter>
+
+    
+    <clipPath id="light-frame-clip">
+      <rect x="12" y="12" width="1156" height="586" rx="22" />
+    </clipPath>
+
+    <clipPath id="light-visual-map-clip">
+      <rect x="44" y="114" width="396" height="332" rx="12" />
+    </clipPath>
+
+    
+    <clipPath id="light-role-clip-1">
+      <rect x="492" y="186" width="0" height="26">
+        <animate attributeName="width" values="0;210;210;0;0" keyTimes="0;0.06;0.21;0.25;1" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="light-role-clip-2">
+      <rect x="492" y="186" width="0" height="26">
+        <animate attributeName="width" values="0;0;175;175;0;0" keyTimes="0;0.25;0.31;0.46;0.50;1" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="light-role-clip-3">
+      <rect x="492" y="186" width="0" height="26">
+        <animate attributeName="width" values="0;0;245;245;0;0" keyTimes="0;0.50;0.56;0.71;0.75;1" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="light-role-clip-4">
+      <rect x="492" y="186" width="0" height="26">
+        <animate attributeName="width" values="0;0;205;205;0" keyTimes="0;0.75;0.81;0.96;1" dur="16s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  
+  <g clip-path="url(#light-frame-clip)">
+    <rect x="12" y="12" width="1156" height="586" fill="url(#light-bg-grad)" />
+    <rect x="12" y="12" width="1156" height="586" fill="url(#light-glow-blue)" />
+    <rect x="12" y="12" width="1156" height="586" fill="url(#light-glow-cyan)" />
+    <rect x="12" y="12" width="1156" height="586" fill="url(#light-glow-emerald)" />
+    <rect x="12" y="12" width="1156" height="586" fill="url(#light-tech-grid)" />
+
+    
+    <rect x="12" y="12" width="1156" height="44" fill="#F8FAFC" fill-opacity="0.92" />
+    <line x1="12" y1="56" x2="1168" y2="56" stroke="#CBD5E1" stroke-width="1" />
+    <line x1="12" y1="56" x2="1168" y2="56" stroke="url(#light-accent-beam)" stroke-opacity="0.55" stroke-width="1.2" />
+
+    
+    <circle cx="38" cy="34" r="5.5" fill="#EF4444" />
+    <circle cx="56" cy="34" r="5.5" fill="#F59E0B" />
+    <circle cx="74" cy="34" r="5.5" fill="#10B981" />
+
+    
+    <text x="98" y="38" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="0.4">mruna1h@nitc:~</text>
+
+    
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+      <rect x="244" y="18" width="106" height="38" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+      <line x1="246" y1="19" x2="348" y2="19" stroke="#2563EB" stroke-width="2.2" />
+      <text x="297" y="39" text-anchor="middle" fill="#0F172A" font-weight="700">profile.sh</text>
+
+      <text x="394" y="39" text-anchor="middle" fill="#64748B">systems/</text>
+      <text x="484" y="39" text-anchor="middle" fill="#64748B">algorithms/</text>
+      <text x="596" y="39" text-anchor="middle" fill="#64748B">chip8-emulator/</text>
+    </g>
+
+    
+    <rect x="1044" y="22" width="102" height="24" rx="12" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.45" stroke-width="1" />
+    <circle cx="1060" cy="34" r="3.5" fill="#059669">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <text x="1102" y="38" text-anchor="middle" fill="#047857" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="0.8">ONLINE</text>
+
+    
+    
+    
+    <g filter="url(#card-shadow)">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze" />
+      <rect x="28" y="72" width="428" height="510" rx="16" fill="url(#light-panel-glass)" stroke="#CBD5E1" stroke-width="1.2" />
+
+      
+      <text x="46" y="99" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">VISUAL.MAP // MEMORY &amp; EXECUTION</text>
+      <text x="438" y="99" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">4KB BUS</text>
+
+      
+      <g clip-path="url(#light-visual-map-clip)">
+        <rect x="44" y="114" width="396" height="332" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2" />
+        <rect x="44" y="114" width="396" height="332" fill="url(#light-dot-matrix)" />
+
+        
+        <g stroke="#2563EB" stroke-opacity="0.07" stroke-width="1">
+          <line x1="176" y1="114" x2="176" y2="446" />
+          <line x1="308" y1="114" x2="308" y2="446" />
+          <line x1="44" y1="224" x2="440" y2="224" />
+          <line x1="44" y1="334" x2="440" y2="334" />
+        </g>
+
+        
+        <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">
+          <rect x="56" y="124" width="86" height="24" rx="5" fill="#FFFFFF" stroke="#93C5FD" stroke-width="1.1" />
+          <text x="64" y="140" fill="#64748B">PC:</text>
+          <text x="86" y="140" fill="#1D4ED8" font-weight="700">0x0200</text>
+
+          <rect x="150" y="124" width="84" height="24" rx="5" fill="#FFFFFF" stroke="#67E8F9" stroke-width="1.1" />
+          <text x="158" y="140" fill="#64748B">I:</text>
+          <text x="174" y="140" fill="#0E7490" font-weight="700">0x0A40</text>
+
+          <rect x="242" y="124" width="76" height="24" rx="5" fill="#FFFFFF" stroke="#6EE7B7" stroke-width="1.1" />
+          <text x="250" y="140" fill="#64748B">SP:</text>
+          <text x="272" y="140" fill="#047857" font-weight="700">0x04</text>
+
+          <rect x="326" y="124" width="102" height="24" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+          <text x="334" y="140" fill="#64748B">OP:</text>
+          <text x="358" y="140" fill="#0F172A" font-weight="700">DXYN</text>
+        </g>
+
+        
+        <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+          
+          <rect x="56" y="158" width="212" height="32" rx="6" fill="#EFF6FF" stroke="#93C5FD" stroke-width="1.1" />
+          <text x="66" y="178" fill="#1D4ED8" font-size="10.5" font-weight="700">0x000–0x1FF</text>
+          <text x="152" y="178" fill="#334155" font-size="10" font-weight="600">KERNEL / FONT</text>
+
+          
+          <rect x="56" y="196" width="212" height="38" rx="6" fill="#ECFEFF" stroke="#06B6D4" stroke-width="1.4" />
+          <text x="66" y="219" fill="#0E7490" font-size="10.5" font-weight="700">0x200–0x5FF</text>
+          <text x="152" y="219" fill="#0F172A" font-size="10" font-weight="700">EXEC / PROGRAM</text>
+
+          
+          <rect x="56" y="240" width="212" height="32" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+          <text x="66" y="260" fill="#475569" font-size="10.5" font-weight="700">0x600–0xDFF</text>
+          <text x="152" y="260" fill="#475569" font-size="10">DATA / BUFFER</text>
+
+          
+          <rect x="56" y="278" width="212" height="32" rx="6" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.1" />
+          <text x="66" y="298" fill="#047857" font-size="10.5" font-weight="700">0xE00–0xFFF</text>
+          <text x="152" y="298" fill="#334155" font-size="10" font-weight="600">STACK / VRAM</text>
+        </g>
+
+        
+        <g fill="none" stroke-linecap="round">
+          <path d="M 268 174 L 296 174 L 296 202 L 318 202" stroke="#2563EB" stroke-opacity="0.55" stroke-width="1.5" />
+          <path d="M 268 215 L 318 215" stroke="#06B6D4" stroke-opacity="0.85" stroke-width="2" />
+          <path d="M 268 256 L 296 256 L 296 228 L 318 228" stroke="#94A3B8" stroke-opacity="0.6" stroke-width="1.5" />
+          <path d="M 268 294 L 304 294 L 304 241 L 318 241" stroke="#10B981" stroke-opacity="0.6" stroke-width="1.5" />
+
+          
+          <circle r="3.2" fill="#06B6D4">
+            <animateMotion path="M 268 215 L 318 215" dur="1.8s" repeatCount="indefinite" />
+          </circle>
+          <circle r="2.5" fill="#2563EB">
+            <animateMotion path="M 268 174 L 296 174 L 296 202 L 318 202" dur="2.6s" repeatCount="indefinite" />
+          </circle>
+          <circle r="2.5" fill="#10B981">
+            <animateMotion path="M 268 294 L 304 294 L 304 241 L 318 241" dur="2.2s" repeatCount="indefinite" />
+          </circle>
+        </g>
+
+        
+        <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+          <rect x="318" y="158" width="110" height="152" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2" />
+          <text x="373" y="177" text-anchor="middle" fill="#2563EB" font-size="9.5" font-weight="700" letter-spacing="1">CPU.CYCLE</text>
+          <line x1="328" y1="184" x2="418" y2="184" stroke="#E2E8F0" />
+
+          <rect x="328" y="193" width="90" height="24" rx="4" fill="#F8FAFC" stroke="#93C5FD" />
+          <text x="373" y="209" text-anchor="middle" fill="#1E293B" font-size="10" font-weight="600">01 FETCH</text>
+
+          <rect x="328" y="224" width="90" height="24" rx="4" fill="#ECFEFF" stroke="#06B6D4" />
+          <text x="373" y="240" text-anchor="middle" fill="#0E7490" font-size="10" font-weight="700">02 DECODE</text>
+
+          <rect x="328" y="255" width="90" height="24" rx="4" fill="#F8FAFC" stroke="#6EE7B7" />
+          <text x="373" y="271" text-anchor="middle" fill="#1E293B" font-size="10" font-weight="600">03 EXEC</text>
+
+          <text x="373" y="299" text-anchor="middle" fill="#047857" font-size="9.5" font-weight="700">SYNC · 60Hz</text>
+        </g>
+
+        
+        <rect x="56" y="320" width="372" height="114" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+        <text x="68" y="337" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="1">FRAMEBUFFER [64×32 DOT-MATRIX]</text>
+        <text x="416" y="337" text-anchor="end" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="700">0xF00..0xFFF</text>
+
+        
+        <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.4" font-weight="600">
+          <text x="68" y="355" fill="#94A3B8">· · : + * # % @ % # * + : · · : + * # % @ % # * + : · ·</text>
+          <text x="68" y="369" fill="#0284C7">: + * # @ @ # * + : · · : + * # % @ @ % # * + : · · : +</text>
+          <text x="68" y="383" fill="#2563EB">* # % @ @ % # * + : · : + * # % @ @ @ @ % # * + : · : +</text>
+          <text x="68" y="397" fill="#0891B2"># % @ @ % # * + : · · · : + * # % @ @ % # * + : · · · :</text>
+          <text x="68" y="411" fill="#059669">: + * # % @ # * + : · : + * # % @ @ % # * + : · : + * #</text>
+          <text x="68" y="425" fill="#94A3B8">· · : + * # % # * + : · · : + * # % # * + : · · : + * #</text>
+        </g>
+
+        
+        <rect x="44" y="114" width="396" height="24" fill="url(#light-scanline-grad)">
+          <animate attributeName="y" values="114;422;114" dur="6.5s" repeatCount="indefinite" />
+        </rect>
+      </g>
+
+      
+      <text x="46" y="472" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.4">[SYSTEMS · ALGORITHMS]</text>
+
+      <text x="46" y="502" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="800">Mrunal <tspan fill="#475569" font-size="16" font-weight="500">(@mruna1h)</tspan></text>
+
+      <text x="46" y="527" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Understanding one layer below the abstraction.</text>
+
+      
+      <rect x="44" y="542" width="396" height="28" rx="7" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.1" />
+      <text x="56" y="560" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+        <tspan fill="#047857" font-weight="700">~/mruna1h</tspan>
+        <tspan fill="#64748B"> $ </tspan>
+        <tspan fill="#0F172A" font-weight="600">g++ -O2 -std=c++20</tspan>
+        <tspan fill="#2563EB">▌<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" /></tspan>
+      </text>
+    </g>
+
+    
+    
+    
+    <g filter="url(#card-shadow)">
+      <rect x="472" y="72" width="680" height="510" rx="16" fill="url(#light-panel-glass)" stroke="#CBD5E1" stroke-width="1.2" />
+
+      
+      <text x="494" y="99" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.8">SYSTEM.INFO</text>
+      <text x="1130" y="99" text-anchor="end" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+        <tspan fill="#047857" font-weight="700">mruna1h@nitc</tspan>:<tspan fill="#2563EB">~</tspan>$ ./profile.sh
+      </text>
+      <line x1="494" y1="112" x2="1130" y2="112" stroke="#E2E8F0" />
+
+      
+      <text x="494" y="152" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="34" font-weight="800" letter-spacing="-0.5">Mrunal</text>
+      <rect x="630" y="129" width="112" height="24" rx="6" fill="#EFF6FF" stroke="#93C5FD" stroke-width="1.1" />
+      <text x="686" y="145" text-anchor="middle" fill="#1D4ED8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700">NIT CALICUT</text>
+
+      
+      <text x="494" y="177" fill="#0E7490" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="700">CS Undergrad @ NIT Calicut · First-Principles Engineering</text>
+
+      
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600">
+        <text x="494" y="203" fill="#059669" font-weight="700">&gt;</text>
+        <g clip-path="url(#light-role-clip-1)">
+          <text x="510" y="203" fill="#334155">Systems Programmer</text>
+        </g>
+        <g clip-path="url(#light-role-clip-2)">
+          <text x="510" y="203" fill="#334155">C/C++ Developer</text>
+        </g>
+        <g clip-path="url(#light-role-clip-3)">
+          <text x="510" y="203" fill="#334155">Competitive Programmer</text>
+        </g>
+        <g clip-path="url(#light-role-clip-4)">
+          <text x="510" y="203" fill="#334155">CS Undergrad @ NITC</text>
+        </g>
+      </g>
+
+      
+      <rect x="494" y="218" width="636" height="122" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1" />
+
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+        
+        <text x="512" y="242" fill="#2563EB" font-weight="700">NAME</text>
+        <text x="614" y="242" fill="#0F172A" font-weight="600">Mrunal (mruna1h)</text>
+        <line x1="510" y1="251" x2="1114" y2="251" stroke="#E2E8F0" />
+
+        
+        <text x="512" y="271" fill="#2563EB" font-weight="700">ROLE</text>
+        <text x="614" y="271" fill="#334155">Systems Programmer · C/C++ Developer · Competitive Programmer</text>
+        <line x1="510" y1="280" x2="1114" y2="280" stroke="#E2E8F0" />
+
+        
+        <text x="512" y="300" fill="#2563EB" font-weight="700">EDUCATION</text>
+        <text x="614" y="300" fill="#334155">B.Tech CSE · National Institute of Technology Calicut</text>
+        <line x1="510" y1="309" x2="1114" y2="309" stroke="#E2E8F0" />
+
+        
+        <text x="512" y="329" fill="#2563EB" font-weight="700">FOCUS</text>
+        <text x="614" y="329" fill="#475569">Systems Internals · Algorithms · Computer Architecture · Databases</text>
+      </g>
+
+      
+      <text x="494" y="362" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4">CORE.STACK</text>
+
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700">
+        
+        <rect x="494" y="372" width="150" height="34" rx="8" fill="url(#light-pill-fill)" stroke="#93C5FD" stroke-width="1.2" />
+        <circle cx="514" cy="389" r="4" fill="#2563EB" />
+        <text x="574" y="394" text-anchor="middle" fill="#0F172A">C</text>
+
+        
+        <rect x="656" y="372" width="150" height="34" rx="8" fill="url(#light-pill-fill)" stroke="#67E8F9" stroke-width="1.2" />
+        <circle cx="676" cy="389" r="4" fill="#06B6D4" />
+        <text x="736" y="394" text-anchor="middle" fill="#0F172A">C++</text>
+
+        
+        <rect x="818" y="372" width="150" height="34" rx="8" fill="url(#light-pill-fill)" stroke="#6EE7B7" stroke-width="1.2" />
+        <circle cx="838" cy="389" r="4" fill="#10B981" />
+        <text x="898" y="394" text-anchor="middle" fill="#0F172A">Python</text>
+
+        
+        <rect x="980" y="372" width="150" height="34" rx="8" fill="url(#light-pill-fill)" stroke="#7DD3FC" stroke-width="1.2" />
+        <circle cx="1000" cy="389" r="4" fill="#0284C7" />
+        <text x="1060" y="394" text-anchor="middle" fill="#0F172A">SQL</text>
+      </g>
+
+      
+      <text x="494" y="428" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4">FEATURED.BUILD</text>
+
+      <rect x="494" y="438" width="636" height="68" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2" />
+      <rect x="494" y="438" width="4" height="68" rx="2" fill="url(#light-accent-beam)" />
+
+      <text x="514" y="462" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="800">chip8-emulator</text>
+      <rect x="1032" y="447" width="84" height="20" rx="5" fill="#ECFEFF" stroke="#67E8F9" stroke-width="1" />
+      <text x="1074" y="461" text-anchor="middle" fill="#0E7490" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700">C++ · SDL2</text>
+
+      <text x="514" y="487" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Cycle-accurate CHIP-8 emulator with custom themes, speed controls &amp; savestates</text>
+
+      
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+        <rect x="494" y="522" width="204" height="44" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1" />
+        <text x="508" y="539" fill="#64748B" font-size="9.5" font-weight="700" letter-spacing="0.8">GITHUB</text>
+        <text x="508" y="556" fill="#0F172A" font-weight="600">github.com/mruna1h</text>
+
+        <rect x="710" y="522" width="204" height="44" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1" />
+        <text x="724" y="539" fill="#64748B" font-size="9.5" font-weight="700" letter-spacing="0.8">LEETCODE</text>
+        <text x="724" y="556" fill="#0F172A" font-weight="600">leetcode.com/u/Mruna1</text>
+
+        <rect x="926" y="522" width="204" height="44" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.1" />
+        <text x="940" y="539" fill="#64748B" font-size="9.5" font-weight="700" letter-spacing="0.8">CODEFORCES</text>
+        <text x="940" y="556" fill="#0F172A" font-weight="600">codeforces.com/profile/mruna1</text>
+      </g>
+    </g>
+  </g>
+
+  
+  <rect x="12" y="12" width="1156" height="586" rx="22" fill="none" stroke="url(#light-accent-beam)" stroke-opacity="0.45" stroke-width="1.5" />
+</svg>
