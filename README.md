@@ -31,13 +31,6 @@
 
 </details>
 
-#### Loadout & Current Arc
-
-Computer Science undergraduate at **NIT Calicut** focused on systems programming, algorithms, and machine learning from first principles.
-
-- **Stack:** C · C++ · Python
-- **Arenas:** [LeetCode](https://leetcode.com/u/Mruna1/) · [Codeforces](https://codeforces.com/profile/mruna1h)
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/shonen-end-dark.svg">
